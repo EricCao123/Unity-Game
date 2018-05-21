@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6bb37e720413a7448a04d89c4a856e9d
+timeCreated: 1523496968
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Savour&Pinacolada
+  fontNames:
+  - Savour&Pinacolada
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

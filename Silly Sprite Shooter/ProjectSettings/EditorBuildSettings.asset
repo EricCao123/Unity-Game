@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 787cffc1c95ffd94b810f71b3c23213c
+  - enabled: 1
+    path: Assets/controls.unity
+    guid: 3abc2e7629ea3424fa2881cc337adc13
+  - enabled: 1
+    path: Assets/difficulty.unity
+    guid: 0c1406bf0bbbe7c4bab445fab6cfd6aa
+  - enabled: 0
+    path: Assets/game.unity
+    guid: 7ab105114bbedcf479a0ea94a8f212ef
+  - enabled: 1
+    path: Assets/level_1_easy.unity
+    guid: 0d36a7ea0653a9745850abc848fb6415
+  - enabled: 1
+    path: Assets/level_1_medium.unity
+    guid: f13a73d9df50e3041b1c080e475aa878
+  - enabled: 1
+    path: Assets/level_1_hard.unity
+    guid: 3f97d222a74ea254dbbb33bd0243e479
+  - enabled: 1
+    path: Assets/level_1_extreme.unity
+    guid: 16e4fe392bd737a40accad1d153c7d8e
+  - enabled: 1
+    path: Assets/complete_easy.unity
+    guid: ffeb6824ca7730e4fb96b3b288bff9bc
+  - enabled: 1
+    path: Assets/complete_medium.unity
+    guid: 11ecb3c8d8235d24f99e23d2bf759703
+  - enabled: 1
+    path: Assets/complete_hard.unity
+    guid: 165d2356734c5f74eb3e9bbe14f3e3c7
+  - enabled: 1
+    path: Assets/complete_extreme.unity
+    guid: ab6059cf8c246094290d9605241cb61e
+  - enabled: 1
+    path: Assets/level_2_easy.unity
+    guid: 4476b721dcb05844cbaa7f1689eeef46
+  - enabled: 1
+    path: Assets/level_2_medium.unity
+    guid: 09f370bc5255c6044a7a18ca8925637e
+  - enabled: 1
+    path: Assets/level_2_hard.unity
+    guid: 63f18f1baf11df849b79e751e5cbae80
+  - enabled: 1
+    path: Assets/level_2_extreme.unity
+    guid: 5d17c6a316274c641b74585be1c08668
+  - enabled: 1
+    path: Assets/gameOver.unity
+    guid: 818dc39447b36714c87a4ff2c3855316
+  - enabled: 1
+    path: Assets/finish.unity
+    guid: f8b78143c30a8574686ed252e1413ad6
